@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="testdata">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/osmorc/testdata/ShowGeneratedManifestTest.zip!/" />
+      <root url="jar://$PROJECT_DIR$/osmorc/testdata/FacetDetectionTest.zip!/" />
+      <root url="jar://$PROJECT_DIR$/osmorc/testdata/CachingBundleInfoProviderTest.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

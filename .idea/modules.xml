@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/osmorc/intellij.osgi.iml" filepath="$PROJECT_DIR$/osmorc/intellij.osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmorc/osmorc-jps-plugin/intellij.osgi.jps.iml" filepath="$PROJECT_DIR$/osmorc/osmorc-jps-plugin/intellij.osgi.jps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osmorc.iml" filepath="$PROJECT_DIR$/osmorc.iml" />
+    </modules>
+  </component>
+</project>

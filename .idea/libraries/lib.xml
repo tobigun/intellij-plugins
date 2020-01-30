@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/osmorc/lib/org.osgi.namespace.service-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/osmorc/lib/org.osgi.namespace.contract-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/osmorc/lib/org.osgi.namespace.extender-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/osmorc/lib/org.osgi.namespace.implementation-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/osmorc/lib/bundlor-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
